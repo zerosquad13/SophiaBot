@@ -85,25 +85,25 @@ STICKERS = (
 
 buttons = [
     [
-        InlineKeyboardButton(text=" Commands Help ❓", callback_data="help_back"),
+        InlineKeyboardButton(text="💥Commands Help💥", callback_data="help_back"),
     ],
     [
-        InlineKeyboardButton(text="Info & About 🙋‍", callback_data="source_"),
+        InlineKeyboardButton(text="💥Info & About💥", callback_data="source_"),
         InlineKeyboardButton(
-                  text="System Stats 💻", callback_data="stats_callback"
+                  text="💥System Stats💥", callback_data="stats_callback"
         ),
     ],
     [
-        InlineKeyboardButton(text=" Sophia News 🙋‍♀️ ", url=f"https://t.me/SophiaUpdates"),
-        InlineKeyboardButton(text=" Support Group 💬 ", url=f"https://t.me/SophiaSupport_Official"),
+        InlineKeyboardButton(text=" 💥Sophia News💥 ", url=f"https://t.me/SophiaUpdates"),
+        InlineKeyboardButton(text=" 💥Support Group💥 ", url=f"https://t.me/SophiaSupport_Official"),
     ],
     [
-        InlineKeyboardButton(text="➕ Add Sophia to your Group ➕", url="t.me/SophiaSLBot?startgroup=true"),   
+        InlineKeyboardButton(text="💥Add Sophia to your Group💥", url="t.me/SophiaSLBot?startgroup=true"),   
     ],
 ]
 
 HELP_STRINGS = """
-✘✘✘ 𝗛𝗲𝗹𝗽𝗳𝘂𝗹 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀 ✘✘✘
+💥𝗛𝗲𝗹𝗽𝗳𝘂𝗹 𝗖𝗼𝗺𝗺𝗮𝗻𝗱𝘀💥
 
 Every possibility of Sophia is documentated here
 Click buttons to get help
